@@ -1,0 +1,4 @@
+shodan == http.html_hash:-577922567 (very large dork lots arent the good product by all have the exact same response.. -_-)
+
+default admin:admin password
+command injection in ping function
